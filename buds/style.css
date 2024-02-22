@@ -1,0 +1,6 @@
+#back{
+    background-image: url(./assets/images/nature-1\ \(1\).jpeg);
+    background-size: cover;
+    /* background-size: contain; */
+    background-position: center;
+}
